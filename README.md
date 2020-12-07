@@ -4,8 +4,6 @@
 
 Author: Victoria Fedotkina
 
-Check the app on [GitHub pages]()
-
 ***
 This is a study project. Page is adaptive.  
 
