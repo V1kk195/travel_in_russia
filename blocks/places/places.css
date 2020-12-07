@@ -1,0 +1,48 @@
+@import '__block/places__block.css';
+@import '../two-columns/two-columns.css';
+@import 'two-columns_places/two-columns_places.css';
+@import '__block-title/places__block-title.css';
+@import '__first-column/places__first-column.css';
+@import '__second-column/places__second-column.css';
+@import '__source-list/places__source-list.css';
+@import '__url/places__url.css';
+@import '__source/places__source.css';
+@import '../link/link.css';
+@import '../link_hover/link_hover.css';
+@import '__image/places__image.css';
+@import '__paragraphs/places__paragraphs.css';
+@import '__paragraph/places__paragraph.css';
+@import '_margin_bottom/two-columns_margin_bottom.css';
+@import '__source-block/places__source-block.css';
+
+
+.places {
+    max-width: 984px;
+    margin: 0 auto;
+}
+
+@media only screen 
+    and (min-width: 768px)
+    and (max-width: 1024px) {
+        .places {
+            max-width: 928px;
+            margin: 0 auto;
+        }           
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .places {
+            max-width: 720px;
+            margin: 0 auto;
+        }               
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .places {
+            max-width: 375px;
+            margin: 0 auto;
+        }                      
+}

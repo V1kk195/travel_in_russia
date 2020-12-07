@@ -1,0 +1,27 @@
+.two-columns_places {
+    margin-bottom: 60px;
+}
+
+
+@media only screen 
+    and (min-width: 768px)
+    and (max-width: 1024px) {
+        .two-columns_places {
+            margin-bottom: 40px;
+        }           
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .two-columns_places {
+            margin-bottom: 40px;
+        }                        
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .two-columns_places {
+            margin-bottom: 32px;
+        }                               
+}

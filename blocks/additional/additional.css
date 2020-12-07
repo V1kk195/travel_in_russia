@@ -1,0 +1,26 @@
+@import '../content-sections/content-sections.css';
+@import '../content-title/content-title.css';
+@import '../content-title_line-height_smaller.css/content-title_line-height_smaller.css';
+@import '../content-subtitle/content-subtitle.css';
+@import '__card/additional__card.css';
+
+@import '__cards/additional__cards.css';
+@import '__heading/card__heading.css';
+@import '__text/card__text.css';
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .additional {
+            /*max-width: 660px;*/
+            /*margin: 102px auto;*/
+            display: none;
+        }                      
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .additional {
+            display: none;
+        }                            
+}

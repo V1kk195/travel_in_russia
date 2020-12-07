@@ -1,0 +1,33 @@
+.places__paragraphs {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .places__paragraphs {
+            font-family: 'Inter', Arial, sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 27px;
+            color: #FFFFFF;
+        }                       
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .places__paragraphs {
+            font-family: 'Inter', Arial, sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 27px;
+            color: #FFFFFF;
+        }                             
+    }

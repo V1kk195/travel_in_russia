@@ -1,0 +1,14 @@
+@import '__text-line/intro__text-line.css';
+
+.intro__text {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    max-width: 383px;
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+}

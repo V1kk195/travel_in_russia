@@ -1,0 +1,29 @@
+.additional__cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media only screen
+and (min-width: 768px)
+and (max-width: 1024px) {
+    .additional__cards {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .additional__cards {
+            flex-wrap: wrap;
+            justify-content: center;
+        }                              
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .additional__cards {
+            flex-wrap: wrap;
+        }
+}

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d9462fe-e672-4463-8baf-febbd5b18773" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/travel_in_russia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__card/_cherepovets/additional__card_cherepovets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__card/_nikola/additional__card_nikola.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__card/_nvrsk/additional__card_nvrsk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__card/_shihan/additional__card_shihan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__card/additional__card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__cards/additional__cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__heading/card__heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/__text/card__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/additional/additional.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/__link-heading/barentsburg__link-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/__link/barentsburg__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/__subtitle/barentsburg__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/__text/barentsburg__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/__title/barentsburg__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/barentsburg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/second-column_barentsburg/second-column_barentsburg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/barentsburg/two-columns_barentsburg/two-columns_barentsburg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/comments/__author/comment__author.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/comments/__comment/comment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/comments/__container/comments__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/comments/__photo/comment__photo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/comments/__quote/comment__quote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/comments/comments.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/content-sections/content-sections.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/content-subtitle/content-subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/content-title/content-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/content-title_line-height_smaller.css/content-title_line-height_smaller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/emblem/__city/emblem__city.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/emblem/__container/emblem__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/emblem/__image/emblem__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/emblem/__item/emblem__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/emblem/__title/emblem__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/emblem/emblem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__list-item/footer__list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__list/footer__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__nav-langs/__lang/nav-langs__lang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__nav-langs/_active/nav-langs__lang_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__nav-langs/header__nav-langs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__strong/intro__strong.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__subtitle/intro__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/__text-line/intro__text-line.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/second-column_intro/second-column_intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/two-columns_intro/two-columns_intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image-caption/lead__image-caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/link/link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/link_hover/link_hover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/main/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__block-title/places__block-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__block/places__block.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__first-column/places__first-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__image/places__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__paragraph/places__paragraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__paragraphs/places__paragraphs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__second-column/places__second-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__source-block/places__source-block.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__source-list/places__source-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__source/places__source.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__url/places__url.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/_margin_bottom/two-columns_margin_bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/two-columns_places/two-columns_places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/__first-column/first-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/__second-column/second-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__author/video__author.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__container/video__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__description/video__description.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__duration/video__duration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__item/video__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__play-button/video__play-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__poster/video__poster.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__title/video__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/__logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/altai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arisa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/atharva-tulsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baikal-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cherepovets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/elabuga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/elbrus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ergaki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hafizov.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kalegin-michail-179870-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kamchatka-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kamchatka-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kamchatka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/karelia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kolsky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kondratiev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kosa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lyagushkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/maksimshin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nikola.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/novgorod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nvrssk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/observatory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/perm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/polka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rostov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shickan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sochi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tambov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/train.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tuman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/winter-baikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lLBwOvck7YGaLeag09MYVARfOK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d9462fe-e672-4463-8baf-febbd5b18773" name="Default Changelist" comment="" />
+      <created>1607366731626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607366731626</updated>
+      <workItem from="1607366734146" duration="716000" />
+      <workItem from="1607367485592" duration="3307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="378" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607370117919">
+      <screen x="0" y="0" width="1953" height="1152" />
+    </state>
+    <state x="727" y="378" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1953.1152@0.0.1953.1152" timestamp="1607370117919" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+.card__heading {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin: 30px 18px;
+    position: relative;
+    z-index: 2;
+}

@@ -1,0 +1,18 @@
+/* .main {
+    margin: 0 48px;
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .main {
+            margin: 0 24px;
+        }
+    }
+
+@media only screen 
+    and (max-width: 425px) {
+        .main {
+            margin: 0 16px;
+        }
+    } */

@@ -1,0 +1,26 @@
+.comments__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .comments__container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 72px;
+        }                             
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .comments__container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 48px;
+        }                             
+}

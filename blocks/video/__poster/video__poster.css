@@ -1,0 +1,46 @@
+.video__poster {
+    border-radius: 1.6%;
+    /* width: 583px;
+    height: 323px; */
+    /* width: calc(100% / 2 - 18px);
+    height: auto; */
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+@media only screen 
+    and (min-width: 768px)
+    and (max-width: 1024px) {
+        .video__poster {
+            border-radius: 1.6%;
+            /* width: 456px;
+            height: 288px; */
+            position: relative;
+            overflow: hidden;
+        }                        
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .video__poster {
+            border-radius: 1.6%;
+            /* width: 352px;
+            height: 200px; */
+            position: relative;
+            overflow: hidden;
+            min-height: 200px;
+        }                                              
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .video__poster {
+            border-radius: 1.6%;
+            width: 100%;
+            height: auto;
+            position: relative;
+            overflow: hidden;
+        }                                                    
+}

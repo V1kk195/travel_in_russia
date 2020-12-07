@@ -1,0 +1,12 @@
+.places__second-column {
+    /* width: 484px; */
+    position: relative;
+    /* flex-basis: 50%; */
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .places__second-column {
+            width: 100%;
+        }                            
+}

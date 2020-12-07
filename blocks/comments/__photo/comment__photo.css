@@ -1,0 +1,29 @@
+.comment__photo {
+    border-radius: 50%;
+    width: 97px;
+    height: 97px;
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .comment__photo {
+            border-radius: 50%;
+            width: 97px;
+            height: 97px;
+            order: 1;
+            margin-bottom: 16px;
+        }                              
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .comment__photo {
+            border-radius: 50%;
+            width: 97px;
+            height: 97px;
+            order: 1;
+            margin-bottom: 16px;
+        }                                                          
+}
+

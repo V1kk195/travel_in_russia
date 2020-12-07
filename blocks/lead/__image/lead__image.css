@@ -1,0 +1,43 @@
+.lead__image {
+    width: 985px;
+    height: 554.13px;
+    margin: 0 auto;
+    border: 0;
+    display: block;
+}
+
+@media only screen 
+    and (min-width: 768px)
+    and (max-width: 1024px) {
+        .lead__image {
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+            border: 0;
+            display: block;
+        }        
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .lead__image {
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+            border: 0;
+            display: block;
+        }        
+
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .lead__image {
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+            border: 0;
+            display: block;
+        }             
+    }

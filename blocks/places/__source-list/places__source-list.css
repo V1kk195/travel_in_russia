@@ -1,0 +1,13 @@
+.places__source-list {
+    position: absolute;
+    bottom: 0;
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .places__source-list {
+            position: relative;
+            margin: 24px auto 0 16px;
+            display: inline-block;
+        }                            
+}

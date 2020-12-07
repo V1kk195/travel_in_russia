@@ -1,0 +1,9 @@
+@import '__lang/nav-langs__lang.css';
+@import '_active/nav-langs__lang_active.css';
+
+.header__nav-langs {
+    color: #fff;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 8px;
+}

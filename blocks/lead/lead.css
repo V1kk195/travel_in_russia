@@ -1,0 +1,35 @@
+@import '__title/lead__title.css';
+@import '__subtitle/lead__subtitle.css';
+@import '__image/lead__image.css';
+@import '__image-caption/lead__image-caption.css';
+
+.lead {
+    max-width: 985px;
+    margin: 48px auto 0 auto;
+}
+
+@media only screen 
+    and (min-width: 768px)
+    and (max-width: 1024px) {
+        .lead {
+            max-width: 928px;
+            margin: 48px auto 0 auto;
+        }
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .lead {
+            max-width: 768px;
+            margin: 48px auto 0 auto;
+        }
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .lead {
+            max-width: 391px;
+            margin: 48px auto 0 auto;
+        }        
+    }

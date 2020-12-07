@@ -1,0 +1,11 @@
+.card__text {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 30px 18px;
+    position: relative;
+    z-index: 2;
+}

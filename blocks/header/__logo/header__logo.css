@@ -1,0 +1,20 @@
+.header__logo {
+    width: 176.58px;
+    height: 52px;
+    /* background-image: url('../images/__logo.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; */
+    display: flex;
+    margin: 0 0;
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .header__logo {
+            width: 142px;
+            height: 100%;
+            display: flex;
+            margin: 0 0;
+        }
+    }

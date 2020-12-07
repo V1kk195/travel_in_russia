@@ -1,0 +1,10 @@
+.places__block {
+    margin-bottom: 72px;
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .places__block {
+            margin-bottom: 48px;
+        }                             
+    }

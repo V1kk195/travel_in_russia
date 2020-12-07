@@ -1,0 +1,11 @@
+@import '../content-sections/content-sections.css';
+@import '../content-title/content-title.css';
+@import '../content-subtitle/content-subtitle.css';
+@import '__container/video__container.css';
+@import '__item/video__item.css';
+@import '__poster/video__poster.css';
+@import '__description/video__description.css';
+@import '__play-button/video__play-button.css';
+@import '__duration/video__duration.css';
+@import '__title/video__title.css';
+@import '__author/video__author.css';

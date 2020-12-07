@@ -1,0 +1,14 @@
+@import '__first-column/first-column.css';
+@import '__second-column/second-column.css';
+
+.two-columns {
+    display: flex;
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .two-columns {
+            display: flex;
+            flex-direction: column;
+        }                            
+}

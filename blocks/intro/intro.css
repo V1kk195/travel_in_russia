@@ -1,0 +1,40 @@
+@import '__title/intro__title.css';
+@import '__subtitle/intro__subtitle.css';
+@import 'two-columns_intro/two-columns_intro.css';
+@import 'second-column_intro/second-column_intro.css';
+@import '__strong/intro__strong.css';
+@import '__text/intro__text.css';
+@import '../two-columns/two-columns.css';
+
+.intro {
+    max-width: 984px;
+    margin: 80px auto 0 auto;
+    /* padding-top: 80px; */
+}
+
+@media only screen 
+    and (min-width: 768px)
+    and (max-width: 1024px) {
+        .intro {
+            max-width: 928px;
+            margin: 80px auto 0 auto;
+        }
+        
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .intro {
+            max-width: 720px;
+            margin: 80px auto 0 auto;
+        }        
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .intro {
+            max-width: 343px;
+            margin: 64px auto 0 auto;
+        }               
+    }

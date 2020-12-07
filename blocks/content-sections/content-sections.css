@@ -1,0 +1,30 @@
+.content-sections {
+    max-width: 1184px;
+    margin: 102px auto;
+}
+
+@media only screen 
+    and (min-width: 768px)
+    and (max-width: 1024px) {
+        .content-sections {
+            max-width: 928px;
+            margin: 102px auto;
+        }                 
+}
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .content-sections {
+            max-width: 720px;
+            margin: 102px auto;
+        }                      
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .content-sections {
+            max-width: 343px;
+            margin: 64px auto;
+        }                            
+}

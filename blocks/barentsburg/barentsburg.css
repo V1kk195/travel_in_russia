@@ -1,0 +1,17 @@
+@import '__title/barentsburg__title.css';
+@import '__subtitle/barentsburg__subtitle.css';
+@import '__map/barentsburg__map.css';
+@import '../two-columns/two-columns.css';
+@import 'two-columns_barentsburg/two-columns_barentsburg.css';
+@import '__text/barentsburg__text.css';
+@import 'second-column_barentsburg/second-column_barentsburg.css';
+@import '__link-heading/barentsburg__link-heading.css';
+@import '__link/barentsburg__link.css';
+@import '../link/link.css';
+@import '../link_hover/link_hover.css';
+
+
+.barentsburg {
+    max-width: 1184px;
+    margin: 0 auto 160px auto;
+}

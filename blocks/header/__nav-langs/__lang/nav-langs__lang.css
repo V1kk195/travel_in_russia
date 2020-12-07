@@ -1,0 +1,36 @@
+.nav-langs__lang {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFFFFF;
+    text-decoration-line: none;
+}
+
+.nav-langs__lang:hover {
+    text-decoration-line: underline;
+}
+
+.nav-langs__lang:first-of-type {
+    margin-right: 18px;
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .nav-langs__lang {
+            font-family: 'Inter', Arial, sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 17px;
+            text-align: right;
+            color: #FFFFFF;
+            text-decoration-line: none;
+        }       
+        
+        .nav-langs__lang:first-of-type {
+            margin-right: 16px;
+        }
+    }

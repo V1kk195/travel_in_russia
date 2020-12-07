@@ -1,0 +1,26 @@
+@import '../content-sections/content-sections.css';
+@import '../content-title/content-title.css';
+@import '../content-title_line-height_smaller.css/content-title_line-height_smaller.css';
+@import '../content-subtitle/content-subtitle.css';
+@import '__container/comments__container.css';
+@import '__comment/comment.css';
+@import '__photo/comment__photo.css';
+@import '__quote/comment__quote.css';
+@import '__author/comment__author.css';
+
+@media only screen 
+    and (min-width: 425px)
+    and (max-width: 768px) {
+        .comments {
+            max-width: 660px;
+            margin: 102px auto;
+        }                      
+}
+
+@media only screen 
+    and (max-width: 425px) {
+        .comments {
+            max-width: 343px;
+            margin: 64px auto 48px auto;
+        }                            
+}
